@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darma</h1>
 <h3 align="center">I'm Junior Web Developer</h3>
 
-- 🔭 I’m currently working on [Informatika Unsam](https://informatika-ashy.vercel.app/)
-
-- 👯 I’m looking to collaborate on [Eduvibes](https://eduvibes.id/)
-
 - 👨‍💻 All of my projects are available at [https://darma-porto.vercel.app/](https://darma-porto.vercel.app/)
 
 - 💬 Ask me about **React, Vue, Laravel**
