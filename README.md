@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [Eduvibes](https://eduvibes.id/)
 
-- 🤝 I’m looking for help with **-**
-
 - 👨‍💻 All of my projects are available at [https://darma-porto.vercel.app/](https://darma-porto.vercel.app/)
 
 - 💬 Ask me about **React, Vue, Laravel**
